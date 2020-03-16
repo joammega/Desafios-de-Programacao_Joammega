@@ -1,4 +1,4 @@
-# Contest 1(Força bruta, Vector, Set, Map, IosStream, SStream)
+# Contest 1 (Força bruta, Vector, Set, Map, IosStream, SStream)
 
 - Item A
 
